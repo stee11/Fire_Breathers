@@ -1,0 +1,1 @@
+This is a game made by Steven Kolln in which two players shoot fireballs at each other. Whoever is the last standing is the winner! The file game contains the file with the main method. Compile the game file with a java compiler and run from there.
